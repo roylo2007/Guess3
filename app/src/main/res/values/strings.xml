@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Guess3</string>
+    <string name="msg_enter_number">Please enter a number (1-10)</string>
+    <string name="msg_enter_size">請填入物品大小</string>
+    <string name="length">長</string>
+    <string name="width">寬</string>
+    <string name="height">高</string>
+    <string name="ok">確定</string>
 </resources>
